@@ -99,10 +99,13 @@ td {
   position: relative
 }
 
-/*.rotate
-	{top:50%;left:50%;transform:translate(-50%,-50%) rotateX(180deg) rotateY(180deg)}
+.rotate {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotateX(180deg) rotateY(180deg)
+}
 
-.side-top{
+/*.side-top{
 	width:100%;
 	height:10px;
 	top:0;
