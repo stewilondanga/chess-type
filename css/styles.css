@@ -92,11 +92,14 @@ table:before {
   box-shadow: inset 0 0 1px 2px #d8955b, inset 0 0 1px 4px #a16f44
 }
 
-/*th,
-td
-	{width:30px;height:30px;position:relative}
+th,
+td {
+  width: 30px;
+  height: 30px;
+  position: relative
+}
 
-.rotate
+/*.rotate
 	{top:50%;left:50%;transform:translate(-50%,-50%) rotateX(180deg) rotateY(180deg)}
 
 .side-top{
