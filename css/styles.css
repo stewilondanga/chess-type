@@ -112,14 +112,14 @@ td {
   transform: rotateX(90deg) translate3d(0, 0, 5px)
 }
 
-/*.side-bottom{
-	width:100%;
-	height:10px;
-	bottom:0;
-	transform:rotateX(-90deg) translate3d(0,0,5px)
-	}
+.side-bottom {
+  width: 100%;
+  height: 10px;
+  bottom: 0;
+  transform: rotateX(-90deg) translate3d(0, 0, 5px)
+}
 
-.side-left{
+/*.side-left{
 	width:10px;
 	height:100%;
 	left:0;
