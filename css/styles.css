@@ -24,18 +24,18 @@ span {
   position: absolute
 }
 
-/*.container{
-	width:300px;
-	height:300px;
-	top:50%;
-	left:50%;
-	display:block;
-	position:absolute;
-	perspective:100%;
-	transform:translate(-50%,-50%)
-	}
+.container {
+  width: 300px;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  display: block;
+  position: absolute;
+  perspective: 100%;
+  transform: translate(-50%, -50%)
+}
 
-.box{
+/*.box{
 	width:100%;
 	height:100%;
 	display:block;
