@@ -1,3 +1,9 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: 400;
+  text-align: center
+}
+
 .my_social {
   position: absolute;
   top: 25px;
@@ -13,11 +19,6 @@
   height: 1.5em;
 }
 
-body{
-	font-family:Tahoma,Geneva,sans-serif;
-	font-weight:400;
-	text-align:center
-	}
 
 span
 	{display:block;position:absolute}
