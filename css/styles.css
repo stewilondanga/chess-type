@@ -105,14 +105,14 @@ td {
   transform: translate(-50%, -50%) rotateX(180deg) rotateY(180deg)
 }
 
-/*.side-top{
-	width:100%;
-	height:10px;
-	top:0;
-	transform:rotateX(90deg) translate3d(0,0,5px)
-	}
+.side-top {
+  width: 100%;
+  height: 10px;
+  top: 0;
+  transform: rotateX(90deg) translate3d(0, 0, 5px)
+}
 
-.side-bottom{
+/*.side-bottom{
 	width:100%;
 	height:10px;
 	bottom:0;
