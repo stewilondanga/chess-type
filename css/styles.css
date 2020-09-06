@@ -45,12 +45,17 @@ span {
   animation: rotation 5s ease infinite alternate
 }
 
-/*@keyframes rotation{
-	from{transform:rotateX(60deg) rotateY(0deg) rotate(45deg)}
-	to{transform:rotateX(65deg) rotateY(0deg) rotate(50deg)}
-	}
+@keyframes rotation {
+  from {
+    transform: rotateX(60deg) rotateY(0deg) rotate(45deg)
+  }
 
-[class*="side-"]
+  to {
+    transform: rotateX(65deg) rotateY(0deg) rotate(50deg)
+  }
+}
+
+/*[class*="side-"]
 	{background:#111;display:block;position:absolute}
 
 .side-front
